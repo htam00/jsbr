@@ -1,0 +1,10 @@
+@import 'header.css';
+@import 'footer.css';
+@import 'images.css';
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,15 @@
+.header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #000;
+    clear: both;
+}
+
+a{
+    color: #fff;
+}
+
+a:hover{
+    color: yellow;
+}

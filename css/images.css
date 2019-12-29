@@ -1,0 +1,12 @@
+img{
+    width: 30px;
+    height: 30px;
+}
+
+#text-warning{
+    color: yellow;
+}
+
+#text-error{
+    color: red;
+}
